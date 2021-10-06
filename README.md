@@ -3,10 +3,14 @@
 <a href="https://iqbalhasan.dev" traget="_blank">
 <center><span style="background:white;" >
 <img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN"  style="background:white;"  >
-</span></center>
+</span>
+</br>
+</br>
+
+![views](https://gpvc.arturio.dev/iqbalhasandev)
+
+</center>
 </a>
-</br>
-</br>
 
 # Hey There 👋
 
@@ -144,6 +148,25 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying Diploma 
 
 <br/>
 <br/>
+
+## Extra Info
+
+<hr/>
+</br>
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img  alt="IQBAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iqbalhasandev&show_icons=true&hide_border=true" />
+
+</details>
+</br>
+<details>
+  <summary>Most Used Languages</summary>
+
+<img  alt="IQBAL's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhasandev" />
+</details>
+</br>
+</br>
 
 ## Sponsors
 
