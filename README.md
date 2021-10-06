@@ -135,8 +135,6 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying Diploma 
 &nbsp;
 [<img src="https://img.shields.io/badge/@iqbalhasan.dev-282C34?logo=instagram" alt="instagram logo" title="Instagram" height="25" />](https://www.instagram.com/iqbalhasan.dev)
 &nbsp;
-[<img src="https://img.shields.io/badge/@iqbalhasandev-282C34?logo=Twitter" alt="Twitter logo" title="Twitter" height="25" />](https://twitter.com/iqbalhasandev)
-&nbsp;
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
 
