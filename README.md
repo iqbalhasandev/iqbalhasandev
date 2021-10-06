@@ -1,9 +1,9 @@
 </br>
 </br>
 <a href="https://iqbalhasan.dev" traget="_blank">
-<span style="background:white;display:block;padding:15px;text-align:center" >
-<img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN" width="300"  style="background:white; padding-bottom:13px"  >
-</span>
+<center><span style="background:white;display:block;padding:15px;text-align:center" >
+<img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN"  style="background:white; padding-bottom:13px"  >
+</span></center>
 </a>
 </br>
 </br>
@@ -151,12 +151,9 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying Diploma 
 
 <hr/>
 <br>
-<span style="background:white;display:block;padding:15px;text-align:center" >
-
-<img title="" src="image/github.png" alt="Github" style="background:white;">
-
-<img title="" src="image/namecheap.png"  alt="namechep" width="200"  style="background:white; padding-bottom:13px" >
-</span>
+<center><span style="background:white;display:block;padding:15px;text-align:center" >
+<img title="" src="image/Sponsors.PNG" alt="Sponsors" style="background:white;">
+</span></center>
 <br>
 
 Thanks to all my sponsors for supporting me. mail ( [support@iqbalhasan.dev](mailto:support@iqbalhasan.dev) ) me if you want to support me
