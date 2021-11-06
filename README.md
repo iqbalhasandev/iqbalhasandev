@@ -173,7 +173,9 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying Diploma 
 <hr/>
 <br>
 <center><span style="background:white;display:block;padding:15px;text-align:center" >
-<img title="" src="image/Sponsors.PNG" alt="Sponsors" style="background:white;">
+ <a href="https://iqbalhasan.dev" traget="_blank" >
+  <img title="" src="image/Sponsors.PNG" alt="Sponsors" style="background:white;">
+ </a>
 </span></center>
 <br>
 
