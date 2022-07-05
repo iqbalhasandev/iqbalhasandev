@@ -7,7 +7,8 @@
 </br>
 </br>
 
-![views](https://api.iqbalhasan.dev/api/visitor/count)
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][https://api.iqbalhasan.dev/api/visitor/count]
+&nbsp;
 
 </center>
 </a>
