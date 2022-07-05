@@ -7,7 +7,7 @@
 </br>
 </br>
 
-![views](https://gpvc.arturio.dev/iqbalhasandev)
+![views](https://api.iqbalhasan.dev/api/visitor/count)
 
 </center>
 </a>
