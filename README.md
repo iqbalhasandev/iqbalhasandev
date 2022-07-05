@@ -6,9 +6,8 @@
 </span>
 </br>
 </br>
-![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg)
 
-&nbsp;
+![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg)
 
 </center>
 </a>
