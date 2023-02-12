@@ -23,7 +23,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://iqbalhasan.de
 
 - 📚 Currently I am focusing on [**Laravel**](https://laravel.com) and Server Management.
 
-- 🎯 Goal of 2021 is to learn Laravel, Vue.js & Industrial Good Practices
+- 🎯 Goal of 2023 is to learn Optimize Code, Vue.js & Industrial Good Practices
 
 <br/>
 
