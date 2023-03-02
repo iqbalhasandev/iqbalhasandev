@@ -32,7 +32,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://iqbalhasan.de
 <hr/>
 <br>
 
-I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying B.SC in computer science & engineering. I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 3 years. And in addition to freelancing, I am contributing to various open source projects. I currently have more than 3 job experiences
+I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying bsc in computer science & engineering. I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 3 years. And in addition to freelancing, I am contributing to various open source projects. I currently have more than 3 job experiences
 <br/>
 <br/>
 
