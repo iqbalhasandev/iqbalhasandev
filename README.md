@@ -7,7 +7,7 @@
 </br>
 </br>
 
-![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg)
+<!-- ![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg) -->
 
 </center>
 </a>
@@ -19,26 +19,24 @@ Laravel developer / Sr. Web App Developer from Bangladesh. I am specialized in B
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 😁 Linux 😅 and I am a bit 😄 mad 😄 when I code.
 
-Want to know more about me ? [**Check out my Portfolio.**](https://iqbalhasan.dev)
+Want to know more about me ? [**Check out my Portfolio.**](https://iqbalhasan.dev) and you can also [**Check out my Blog.**](https://iqbalhasan.com)
 
-- 📚 Currently I am focusing on [**Laravel**](https://laravel.com) and Server Management.
+- 📚 Currently I am focusing on [**Laravel**](https://laravel.com) and Server Management Devops.
 
-- 🎯 Goal of 2023 is to learn Optimize Code, Vue.js & Industrial Good Practices
+- 🎯 Goal of 2024 is to learn Optimize Code, Vue.js & Industrial Good Practices and Devops Related work.
 
 <br/>
 
 ## 🤔  About Me
 
-<hr/>
 <br>
 
-I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying bsc in computer science & engineering. I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 3 years. And in addition to freelancing, I am contributing to various open source projects. I currently have more than 3 job experiences
+I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying BSC in computer science & engineering. I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 4 years. And in addition to freelancing, I am contributing to various open source projects. I currently have more than 4 job experiences
 <br/>
 <br/>
 
 ## 🛠  Technologies and tools
 
-<hr/>
 <br>
 <a name="learning-now"></a>
 
@@ -86,10 +84,8 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying bsc in c
 
 ## 📖  What I am currently learning / improving on
 
-<hr/>
 <br>
 
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=C43129" alt="Laravel logo" title="Laravel" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Stripe-282C34?logo=Stripe&logoColor=564FD0" alt="Stripe logo" title="Stripe" height="25" />][learning_now_anchor]
 &nbsp;
@@ -102,7 +98,6 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying bsc in c
 
 ## 👾  What I am interested in learning at some point
 
-<hr/>
 <br>
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
@@ -151,26 +146,20 @@ I am [**IQBAL HASAN**](https://iqbalhasan.dev). I am a student studying bsc in c
 
 ## Extra Info
 
-<hr/>
-</br>
-<details>
   <summary>GitHub Stats</summary>
 
   <img  alt="IQBAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iqbalhasandev&show_icons=true&hide_border=true" />
 
-</details>
 </br>
-<details>
+<hr/>
+</br>
   <summary>Most Used Languages</summary>
-
 <img  alt="IQBAL's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhasandev" />
-</details>
 </br>
 </br>
 
 ## Sponsors
 
-<hr/>
 <br>
 <center><span style="background:white;display:block;padding:15px;text-align:center" >
  <a href="https://iqbalhasan.dev" traget="_blank" >
@@ -185,7 +174,6 @@ Thanks to all my sponsors for supporting me. mail ( [support@iqbalhasan.dev](mai
 
 ## Security Vulnerabilities
 
-<hr/>
 <br>
 
 If you discover a security vulnerability within my any open-source project or any of my public/private project , please send an e-mail to [**IQBAL HASAN**](https://iqbalhasan.dev) via [support@iqbalhasan.dev](mailto:support@iqbalhasan.dev). All security vulnerabilities will be promptly addressed.
