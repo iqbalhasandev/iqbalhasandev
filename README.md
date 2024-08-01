@@ -1,5 +1,10 @@
 <div style="text-align:center;">
-  [![IQBAL HASAN](image/logo.png)](https://iqbalhasan.dev)
+  <a href="https://iqbalhasan.dev" target="_blank">
+    <span style="background:white;">
+      <img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN" style="background:white;">
+    </span>
+  </a>
+  <!-- ![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg) -->
 </div>
 
 
