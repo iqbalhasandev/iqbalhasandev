@@ -1,11 +1,10 @@
 <a href="https://iqbalhasan.dev" traget="_blank">
-<center><span style="background:white;" >
-<img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN"  style="background:white;"  >
-</span>
-
-<!-- ![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg) -->
-
-</center>
+  <center>
+    <span style="background:white;" >
+      <img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN"  style="background:white;"  >
+    </span>
+  <!-- ![views](https://api.iqbalhasan.dev/api/visitor/count-and-svg) -->
+  </center>
 </a>
 
 # Hey There 👋
