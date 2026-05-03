@@ -277,7 +277,9 @@ Built prompt-driven RAG & data workflows
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
 </div>
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"/> &nbsp;Featured Products & Client Work
+## 🚀 Featured Products & Client Work
+
+> Production systems I've architected, built, and shipped — from multi-tenant SaaS to ERP suites, AI platforms, and logistics workflows.
 
 <table>
 <tr>
@@ -345,7 +347,7 @@ Logistics management — parcel handling, tracking, client management, courier w
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp;Open Source — Packages I Built for the Community
 
-> Production-grade packages published under [**@devwizardhq**](https://github.com/devwizardhq) on Composer & npm.
+> Production-grade packages published under [**@devwizardhq**](https://github.com/devwizardhq) on Composer & npm — battle-tested in real client deployments.
 
 <table>
 <tr>
