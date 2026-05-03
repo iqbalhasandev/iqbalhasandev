@@ -523,55 +523,22 @@ CI/CD pipelines, Docker, VPS/cloud setup, SSL, zero-downtime releases.
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;GitHub Insights
 
-<!-- ─── Profile banner ─── -->
+<!-- ─── Full-width profile banner ─── -->
 <div align="center">
-  <a href="https://github.com/iqbalhasandev">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalhasandev&theme=tokyonight" alt="profile details" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalhasandev&theme=tokyonight" alt="profile details" />
 </div>
 
-<!-- ─── Trophies ─── -->
+<!-- ─── Full-width trophies ─── -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=iqbalhasandev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="trophies" />
-  </a>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=iqbalhasandev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="trophies" />
 </div>
 
-<!-- ─── Stats + Streak ─── -->
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqbalhasandev&theme=tokyonight" alt="stats" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=iqbalhasandev&theme=tokyonight&hide_border=true&card_width=480" alt="streak" />
-</td>
-</tr>
-</table>
-
-<!-- ─── Languages ─── -->
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbalhasandev&theme=tokyonight&exclude=html,css" alt="repos per language" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqbalhasandev&theme=tokyonight" alt="most commit language" />
-</td>
-</tr>
-</table>
-
-<!-- ─── Productive time ─── -->
-<div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbalhasandev&theme=tokyonight&utcOffset=6" alt="productive time" />
-</div>
-
-<!-- ─── Contribution activity graph ─── -->
+<!-- ─── Full-width activity graph ─── -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalhasandev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f59e0b&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" alt="activity graph" />
 </div>
 
-<!-- ─── Snake eating contributions ─── -->
+<!-- ─── Snake eating GitHub contributions (auto-updates daily via Actions) ─── -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalhasandev/iqbalhasandev/output/github-contribution-grid-snake-dark.svg" />
