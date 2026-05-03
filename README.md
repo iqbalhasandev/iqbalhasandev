@@ -576,24 +576,6 @@ CI/CD pipelines, Docker, VPS/cloud setup, SSL, zero-downtime releases.
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
 </div>
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"/> &nbsp;Testimonials
-
-> *"Iqbal transformed our legacy system into a modern SaaS platform. His deep understanding of Laravel and React made the migration seamless."*
-> — **Sarah Johnson**, CTO, TechStart Inc.
-
-> *"He didn't just write code — he architected a solution that scaled with our growth without breaking a sweat."*
-> — **Michael Chen**, Product Manager, DataFlow Systems
-
-> *"Iqbal's attention to detail and technical expertise are unmatched. Built our entire platform from scratch and delivered ahead of schedule."*
-> — **Emily Rodriguez**, Founder, Creative Labs
-
-> *"An exceptional developer who brings both technical skill and strategic thinking. Helped us streamline DevOps and cut deployment time significantly."*
-> — **Ahmed Rahman**, Engineering Lead, CloudPeak Solutions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
-
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"/> &nbsp;Let's Talk
 
 <div align="center">
