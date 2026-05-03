@@ -281,172 +281,34 @@ Built prompt-driven RAG & data workflows
 
 > Production systems I've architected, built, and shipped — from multi-tenant SaaS to ERP suites, AI platforms, and logistics workflows.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 WCStudio · `SaaS`
-Scalable SaaS for managed hosting operations & team workflows. Server provisioning, SSL lifecycle, billing modules.
-<br/>`Laravel` `React` `Inertia.js` `MySQL` `Redis` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 PromptForm · `AI`
-AI-powered platform simplifying structured input collection & workflow automation through intelligent prompts.
-<br/>`Laravel` `React` `OpenAI API` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠 TheTechDr · `Operations`
-Service & repair management — appointments, technician workflows, pickups, diagnostics, invoicing, RBAC.
-<br/>`Laravel` `React` `Inertia.js` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Project Cost Estimation (PCES) · `Business`
-Cost estimation platform automating project workflows & improving cost planning efficiency.
-<br/>`Laravel` `JavaScript` `MySQL` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💎 Gold ERP · `ERP`
-Comprehensive ERP for jewelry businesses — inventory, sales, accounting, operations.
-<br/>`Laravel` `PHP` `MySQL` `jQuery` `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Amarseba · `E-Service`
-Digital service platform — top-up, NID server copy, SMS gateway, utility services.
-<br/>`Laravel` `PHP` `MySQL` `Payment Gateway` `SMS API`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📦 Kinoyee Express · `Logistics`
-Logistics management — parcel handling, tracking, client management, courier workflow automation.
-<br/>`Laravel` `PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
-</table>
+| Product | Domain | Summary | Stack |
+| :--- | :--- | :--- | :--- |
+| 🚀 **WCStudio** | `SaaS` | Scalable SaaS for managed hosting operations & team workflows. Server provisioning, SSL lifecycle, billing modules. | `Laravel` `React` `Inertia.js` `MySQL` `Redis` `Docker` |
+| 🤖 **PromptForm** | `AI` | AI-powered platform simplifying structured input collection & workflow automation through intelligent prompts. | `Laravel` `React` `OpenAI API` `TypeScript` |
+| 🛠 **TheTechDr** | `Operations` | Service & repair management — appointments, technician workflows, pickups, diagnostics, invoicing, RBAC. | `Laravel` `React` `Inertia.js` `MySQL` |
+| 📊 **Project Cost Estimation (PCES)** | `Business` | Cost estimation platform automating project workflows & improving cost planning efficiency. | `Laravel` `JavaScript` `MySQL` `REST API` |
+| 💎 **Gold ERP** | `ERP` | Comprehensive ERP for jewelry businesses — inventory, sales, accounting, operations. | `Laravel` `PHP` `MySQL` `jQuery` `Bootstrap` |
+| 📡 **Amarseba** | `E-Service` | Digital service platform — top-up, NID server copy, SMS gateway, utility services. | `Laravel` `PHP` `MySQL` `Payment` `SMS` |
+| 📦 **Kinoyee Express** | `Logistics` | Logistics management — parcel handling, tracking, client management, courier workflow automation. | `Laravel` `PHP` `MySQL` `JavaScript` |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
 </div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp;Open Source — Packages I Built for the Community
+## 📦 Open Source — Packages I Built for the Community
 
 > Production-grade packages published under [**@devwizardhq**](https://github.com/devwizardhq) on Composer & npm — battle-tested in real client deployments.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Laravel Localizer
-Bridges Laravel translations to SPA frontends (React/Vue/Inertia) with generated language assets, type-safe usage, global helpers.
-
-```bash
-composer require devwizardhq/laravel-localizer
-```
-`Laravel` `PHP` `React` `Vue` `Inertia.js`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ Laravel Localizer · React
-React integration with Vite plugin, `useLocalizer` hook, automatic TypeScript generation, pluralization, RTL support.
-
-```bash
-npm install @devwizard/laravel-localizer-react
-```
-`React` `TypeScript` `Vite` `Inertia.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💚 Laravel Localizer · Vue
-Vue 3 integration with Vite plugin, `useLocalizer` composable, reactive locale management, automatic TS generation.
-
-```bash
-npm install @devwizard/laravel-localizer-vue
-```
-`Vue 3` `TypeScript` `Vite` `Inertia.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Laravel React Permissions
-Modern permissions system for React/Inertia — pattern matching, wildcard expressions, boolean logic, Spatie integration.
-
-```bash
-npm install @devwizard/laravel-react-permissions
-```
-`React` `TypeScript` `Laravel` `Spatie`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Laravel Enumify
-Auto-generate TypeScript enums from Laravel PHP enums — Artisan commands, Vite integration, smart caching, refactoring tools.
-
-```bash
-composer require devwizardhq/laravel-enumify
-```
-`Laravel` `PHP` `TypeScript` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Vite Plugin Enumify
-Companion plugin — auto-syncs PHP enums to TypeScript during dev with file watching & debouncing.
-
-```bash
-npm install @devwizard/vite-plugin-enumify -D
-```
-`Vite` `TypeScript` `PHP` `Laravel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📨 Laravel Textify
-Enterprise-ready SMS package — 8+ providers (BD + international), queue integration, automatic fallback.
-
-```bash
-composer require devwizardhq/laravel-textify
-```
-`Laravel` `PHP` `SMS API` `Queue`
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 Laravel Filex
-Powerful, modern, enterprise-grade file upload component — validation, storage management, clean API.
-
-```bash
-composer require devwizardhq/laravel-filex
-```
-`Laravel` `PHP` `File Storage`
-
-</td>
-</tr>
-</table>
+| Package | Install | Summary | Stack |
+| :--- | :--- | :--- | :--- |
+| 🌐 **Laravel Localizer** | `composer require devwizardhq/laravel-localizer` | Bridges Laravel translations to SPA frontends (React/Vue/Inertia) with generated language assets, type-safe usage, global helpers. | `Laravel` `PHP` `React` `Vue` `Inertia` |
+| ⚛️ **Laravel Localizer · React** | `npm i @devwizard/laravel-localizer-react` | React integration — Vite plugin, `useLocalizer` hook, auto TypeScript generation, pluralization, RTL support. | `React` `TypeScript` `Vite` `Inertia` |
+| 💚 **Laravel Localizer · Vue** | `npm i @devwizard/laravel-localizer-vue` | Vue 3 integration — Vite plugin, `useLocalizer` composable, reactive locale management, auto TS generation. | `Vue 3` `TypeScript` `Vite` `Inertia` |
+| 🔐 **Laravel React Permissions** | `npm i @devwizard/laravel-react-permissions` | Modern permissions for React/Inertia — pattern matching, wildcards, boolean logic, Spatie integration. | `React` `TypeScript` `Laravel` `Spatie` |
+| 🧬 **Laravel Enumify** | `composer require devwizardhq/laravel-enumify` | Auto-generate TypeScript enums from PHP enums — Artisan commands, Vite integration, smart caching, refactoring. | `Laravel` `PHP` `TypeScript` `Vite` |
+| ⚡ **Vite Plugin Enumify** | `npm i -D @devwizard/vite-plugin-enumify` | Companion plugin — auto-syncs PHP enums → TypeScript during dev with file watching & debouncing. | `Vite` `TypeScript` `PHP` `Laravel` |
+| 📨 **Laravel Textify** | `composer require devwizardhq/laravel-textify` | Enterprise SMS package — 8+ providers (BD + international), queue integration, automatic fallback. | `Laravel` `PHP` `SMS` `Queue` |
+| 📁 **Laravel Filex** | `composer require devwizardhq/laravel-filex` | Powerful enterprise-grade file upload component — validation, storage management, clean API. | `Laravel` `PHP` `Storage` |
 
 ### 📚 More from `iqbalhasandev` (235+ public repos)
 
