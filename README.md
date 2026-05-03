@@ -525,11 +525,15 @@ CI/CD pipelines, Docker, VPS/cloud setup, SSL, zero-downtime releases.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iqbalhasandev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&cache_seconds=86400" />
-<img height="180" src="https://streak-stats.demolab.com?user=iqbalhasandev&hide_border=true&background=0d1117&stroke=22d3ee&ring=8b5cf6&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalhasandev&theme=tokyonight" alt="profile details" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhasandev&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10&cache_seconds=86400" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbalhasandev&theme=tokyonight&utcOffset=6" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqbalhasandev&theme=tokyonight" alt="stats" />
+<img height="195" src="https://streak-stats.demolab.com?user=iqbalhasandev&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=f59e0b&currStreakLabel=70a5fd&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&card_width=465" alt="streak" />
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbalhasandev&theme=tokyonight&exclude=html,css" alt="repos per language" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqbalhasandev&theme=tokyonight" alt="most commit language" />
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbalhasandev&theme=tokyonight&utcOffset=6" alt="productive time" />
 
 </div>
 
