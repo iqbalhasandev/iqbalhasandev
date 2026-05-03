@@ -559,15 +559,12 @@ CI/CD pipelines, Docker, VPS/cloud setup, SSL, zero-downtime releases.
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqbalhasandev&theme=tokyonight" alt="most commit language" />
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbalhasandev&theme=tokyonight&utcOffset=6" alt="productive time" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhasandev&layout=donut-vertical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top langs donut" />
-</td>
-</tr>
 </table>
+
+<!-- ─── Productive time ─── -->
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iqbalhasandev&theme=tokyonight&utcOffset=6" alt="productive time" />
+</div>
 
 <!-- ─── Contribution activity graph ─── -->
 <div align="center">
