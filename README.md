@@ -147,8 +147,10 @@ framework_agnostic: true  # Laravel, Nest.js, Node, Django, FastAPI, Express —
 <br/><sub><i>Comfortable picking up any language — Rust, Java, C#, Ruby, Elixir, Kotlin on demand.</i></sub>
 
 ### ⚙️ Backend Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,django,fastapi&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Microservices-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
 <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Filament-FBBF24?style=flat-square&logo=laravel&logoColor=white" />
@@ -156,10 +158,10 @@ framework_agnostic: true  # Laravel, Nest.js, Node, Django, FastAPI, Express —
 <img src="https://img.shields.io/badge/Horizon-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 
 ### 🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,alpinejs,bootstrap,sass,vite,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,alpinejs,bootstrap,sass,vite,flutter&theme=dark" />
 
 ### 🗄️ Databases · Cache · Queues
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
