@@ -2,11 +2,11 @@
 <div align="center">
 
 <a href="https://iqbalhasan.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Sr.%20Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=SDE%20II%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Sr.+Software+Engineer+%40+Nextbit+Studio+LLC;7%2B+years+%E2%80%94+production+SaaS%2C+ERP%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=SDE+II+%40+Shomvob;5%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
 </a>
 
 <br/>
