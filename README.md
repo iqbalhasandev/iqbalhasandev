@@ -2,11 +2,11 @@
 <div align="center">
 
 <a href="https://iqbalhasan.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=SDE%20II%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer%20II%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=SDE+II+%40+Shomvob;5%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Software+Development+Engineer+II+%40+Shomvob;5%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
-> **Software Engineer (SDE II) & Backend Architect** with **5+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **SDE II at Shomvob**.
+> **Software Development Engineer II & Backend Architect** with **5+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **Software Development Engineer II at Shomvob**.
 
 <table>
 <tr>
@@ -61,7 +61,7 @@
 ```yaml
 identity:
   name:        Iqbal Hasan
-  title:       SDE II · Backend Architect · AI Integration Specialist
+  title:       Software Development Engineer II · Backend Architect · AI Integration Specialist
   company:     Shomvob (On-site)
   location:    Dhaka, Bangladesh  🇧🇩  ·  Open to Remote / Hybrid / Relocation
   experience:  5+ years shipping production software
@@ -247,7 +247,7 @@ Built prompt-driven RAG & data workflows
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Experience Timeline
 
 ```text
-  📅 Jun 2026 – Present  │  SDE II
+  📅 Jun 2026 – Present  │  Software Development Engineer II
   ────────────────────── │  Shomvob · Dhaka, Bangladesh
   • Microservices architecture across NestJS & Node.js services
   • Real-time features with Socket.io · event-driven communication
