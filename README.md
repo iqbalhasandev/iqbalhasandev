@@ -2,11 +2,11 @@
 <div align="center">
 
 <a href="https://iqbalhasan.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Sr.%20Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=IQBAL%20HASAN&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=SDE%20II%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Integration%20Specialist&descAlignY=58&descSize=17" alt="header" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Sr.+Software+Engineer+%40+Nextbit+Studio+LLC;7%2B+years+%E2%80%94+production+SaaS%2C+ERP%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=SDE+II+%40+Shomvob;5%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
 </a>
 
 <br/>
@@ -29,13 +29,13 @@
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
-> **Senior Software Engineer & Backend Architect** with **7+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently leading SaaS engineering at **Nextbit Studio LLC (Remote)**.
+> **Software Engineer (SDE II) & Backend Architect** with **5+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **SDE II at Shomvob**.
 
 <table>
 <tr>
-<td width="25%" align="center"><b>7+</b><br/><sub>Years Experience</sub></td>
+<td width="25%" align="center"><b>5+</b><br/><sub>Years Experience</sub></td>
 <td width="25%" align="center"><b>50+</b><br/><sub>Projects Delivered</sub></td>
-<td width="25%" align="center"><b>4</b><br/><sub>Companies Worked</sub></td>
+<td width="25%" align="center"><b>5</b><br/><sub>Companies Worked</sub></td>
 <td width="25%" align="center"><b>235+</b><br/><sub>Public Repos</sub></td>
 </tr>
 </table>
@@ -61,10 +61,10 @@
 ```yaml
 identity:
   name:        Iqbal Hasan
-  title:       Sr. Software Engineer · Backend Architect · AI Integration Specialist
-  company:     Nextbit Studio LLC (Remote)
+  title:       SDE II · Backend Architect · AI Integration Specialist
+  company:     Shomvob (On-site)
   location:    Dhaka, Bangladesh  🇧🇩  ·  Open to Remote / Hybrid / Relocation
-  experience:  7+ years shipping production software
+  experience:  5+ years shipping production software
   languages:   [Bangla, English]
 
 engineering_philosophy:
@@ -75,15 +75,17 @@ engineering_philosophy:
   - "Document the WHY. The WHAT lives in the code."
 
 i_specialize_in:
+  - Microservices architecture (Nest.js · Node.js · service decomposition)
+  - Real-time systems (Socket.io · WebSockets · event-driven communication)
   - SaaS platform engineering (multi-tenant, billing, RBAC, API-first)
-  - Backend architecture & system design (modular monolith, microservices)
+  - MERN-stack & full-stack delivery (Next.js · React · MongoDB)
   - AI integration (custom agents · RAG · MCP · multi-model orchestration)
   - High-throughput APIs (REST · GraphQL · WebSockets · queues)
   - DevOps & cloud infrastructure (Docker · CI/CD · AWS · Cloudflare)
   - Performance engineering & cost optimization
 
 language_agnostic: true   # PHP, JS/TS, Python, Dart, Go, Bash, SQL — pick any
-framework_agnostic: true  # Laravel, Node, Django, FastAPI, Express, Nest — adapt
+framework_agnostic: true  # Laravel, Nest.js, Node, Django, FastAPI, Express — adapt
 ```
 
 <div align="center">
@@ -145,8 +147,10 @@ framework_agnostic: true  # Laravel, Node, Django, FastAPI, Express, Nest — ad
 <br/><sub><i>Comfortable picking up any language — Rust, Java, C#, Ruby, Elixir, Kotlin on demand.</i></sub>
 
 ### ⚙️ Backend Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,django,fastapi&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Microservices-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
 <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Filament-FBBF24?style=flat-square&logo=laravel&logoColor=white" />
@@ -154,10 +158,10 @@ framework_agnostic: true  # Laravel, Node, Django, FastAPI, Express, Nest — ad
 <img src="https://img.shields.io/badge/Horizon-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 
 ### 🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,alpinejs,bootstrap,sass,vite,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,alpinejs,bootstrap,sass,vite,flutter&theme=dark" />
 
 ### 🗄️ Databases · Cache · Queues
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -243,7 +247,15 @@ Built prompt-driven RAG & data workflows
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Experience Timeline
 
 ```text
-  📅 Dec 2024 – Present  │  Sr. Software Engineer
+  📅 Jun 2026 – Present  │  SDE II
+  ────────────────────── │  Shomvob · Dhaka, Bangladesh
+  • Microservices architecture across NestJS & Node.js services
+  • Real-time features with Socket.io · event-driven communication
+  • Full-stack delivery: Next.js · React · MERN-stack workflows
+  • Service decomposition · API design · inter-service messaging
+  • Stack: Nest.js · Node.js · Next.js · React · Socket.io · MongoDB · Microservices
+
+  📅 Dec 2024 – May 2026 │  Software Engineer
   ────────────────────── │  Nextbit Studio LLC · Remote
   • Lead dev of scalable SaaS for managed hosting & team workflows
   • Server provisioning pipelines, site isolation, SSL lifecycle mgmt
