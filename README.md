@@ -29,13 +29,13 @@
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
-> **Senior Software Engineer & Backend Architect** with **7+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently leading SaaS engineering at **Nextbit Studio LLC (Remote)**.
+> **Software Engineer (SDE II) & Backend Architect** with **7+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **SDE II at Shomvob**.
 
 <table>
 <tr>
 <td width="25%" align="center"><b>7+</b><br/><sub>Years Experience</sub></td>
 <td width="25%" align="center"><b>50+</b><br/><sub>Projects Delivered</sub></td>
-<td width="25%" align="center"><b>4</b><br/><sub>Companies Worked</sub></td>
+<td width="25%" align="center"><b>5</b><br/><sub>Companies Worked</sub></td>
 <td width="25%" align="center"><b>235+</b><br/><sub>Public Repos</sub></td>
 </tr>
 </table>
@@ -61,8 +61,8 @@
 ```yaml
 identity:
   name:        Iqbal Hasan
-  title:       Sr. Software Engineer · Backend Architect · AI Integration Specialist
-  company:     Nextbit Studio LLC (Remote)
+  title:       SDE II · Backend Architect · AI Integration Specialist
+  company:     Shomvob (On-site)
   location:    Dhaka, Bangladesh  🇧🇩  ·  Open to Remote / Hybrid / Relocation
   experience:  7+ years shipping production software
   languages:   [Bangla, English]
@@ -75,15 +75,17 @@ engineering_philosophy:
   - "Document the WHY. The WHAT lives in the code."
 
 i_specialize_in:
+  - Microservices architecture (Nest.js · Node.js · service decomposition)
+  - Real-time systems (Socket.io · WebSockets · event-driven communication)
   - SaaS platform engineering (multi-tenant, billing, RBAC, API-first)
-  - Backend architecture & system design (modular monolith, microservices)
+  - MERN-stack & full-stack delivery (Next.js · React · MongoDB)
   - AI integration (custom agents · RAG · MCP · multi-model orchestration)
   - High-throughput APIs (REST · GraphQL · WebSockets · queues)
   - DevOps & cloud infrastructure (Docker · CI/CD · AWS · Cloudflare)
   - Performance engineering & cost optimization
 
 language_agnostic: true   # PHP, JS/TS, Python, Dart, Go, Bash, SQL — pick any
-framework_agnostic: true  # Laravel, Node, Django, FastAPI, Express, Nest — adapt
+framework_agnostic: true  # Laravel, Nest.js, Node, Django, FastAPI, Express — adapt
 ```
 
 <div align="center">
@@ -243,7 +245,15 @@ Built prompt-driven RAG & data workflows
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Experience Timeline
 
 ```text
-  📅 Dec 2024 – Present  │  Sr. Software Engineer
+  📅 Jun 2026 – Present  │  SDE II
+  ────────────────────── │  Shomvob · Dhaka, Bangladesh
+  • Microservices architecture across NestJS & Node.js services
+  • Real-time features with Socket.io · event-driven communication
+  • Full-stack delivery: Next.js · React · MERN-stack workflows
+  • Service decomposition · API design · inter-service messaging
+  • Stack: Nest.js · Node.js · Next.js · React · Socket.io · MongoDB · Microservices
+
+  📅 Dec 2024 – May 2026 │  Software Engineer
   ────────────────────── │  Nextbit Studio LLC · Remote
   • Lead dev of scalable SaaS for managed hosting & team workflows
   • Server provisioning pipelines, site isolation, SSL lifecycle mgmt
