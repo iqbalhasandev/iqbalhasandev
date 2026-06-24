@@ -29,11 +29,11 @@
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
-> **Software Engineer (SDE II) & Backend Architect** with **7+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **SDE II at Shomvob**.
+> **Software Engineer (SDE II) & Backend Architect** with **5+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **SDE II at Shomvob**.
 
 <table>
 <tr>
-<td width="25%" align="center"><b>7+</b><br/><sub>Years Experience</sub></td>
+<td width="25%" align="center"><b>5+</b><br/><sub>Years Experience</sub></td>
 <td width="25%" align="center"><b>50+</b><br/><sub>Projects Delivered</sub></td>
 <td width="25%" align="center"><b>5</b><br/><sub>Companies Worked</sub></td>
 <td width="25%" align="center"><b>235+</b><br/><sub>Public Repos</sub></td>
@@ -64,7 +64,7 @@ identity:
   title:       SDE II · Backend Architect · AI Integration Specialist
   company:     Shomvob (On-site)
   location:    Dhaka, Bangladesh  🇧🇩  ·  Open to Remote / Hybrid / Relocation
-  experience:  7+ years shipping production software
+  experience:  5+ years shipping production software
   languages:   [Bangla, English]
 
 engineering_philosophy:
