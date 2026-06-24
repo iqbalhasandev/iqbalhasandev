@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Software+Development+Engineer+II+%40+Shomvob;5%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Software+Development+Engineer+II+%40+Shomvob;6%2B+years+%E2%80%94+production+SaaS%2C+microservices%2C+AI+platforms;Backend+Architect+%E2%80%94+language+%26+framework+agnostic;AI+Integration+Specialist+%E2%80%94+Agents%2C+RAG%2C+MCP;Open-source+author+%E2%80%94+%40devwizardhq+packages;Available+for+Senior+%26+Staff+Engineering+roles" alt="typing" />
 </a>
 
 <br/>
@@ -29,11 +29,11 @@
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
-> **Software Development Engineer II & Backend Architect** with **5+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **Software Development Engineer II at Shomvob**.
+> **Software Development Engineer II & Backend Architect** with **6+ years** designing, shipping, and scaling production systems — SaaS platforms, ERP suites, AI-powered products, and high-throughput APIs. **Language- and framework-agnostic by discipline**: I lead with architecture, patterns, and first principles, then choose the right stack for the job. Currently building microservices & real-time systems as **Software Development Engineer II at Shomvob**.
 
 <table>
 <tr>
-<td width="25%" align="center"><b>5+</b><br/><sub>Years Experience</sub></td>
+<td width="25%" align="center"><b>6+</b><br/><sub>Years Experience</sub></td>
 <td width="25%" align="center"><b>50+</b><br/><sub>Projects Delivered</sub></td>
 <td width="25%" align="center"><b>5</b><br/><sub>Companies Worked</sub></td>
 <td width="25%" align="center"><b>235+</b><br/><sub>Public Repos</sub></td>
@@ -64,7 +64,7 @@ identity:
   title:       Software Development Engineer II · Backend Architect · AI Integration Specialist
   company:     Shomvob (On-site)
   location:    Dhaka, Bangladesh  🇧🇩  ·  Open to Remote / Hybrid / Relocation
-  experience:  5+ years shipping production software
+  experience:  6+ years shipping production software
   languages:   [Bangla, English]
 
 engineering_philosophy:
