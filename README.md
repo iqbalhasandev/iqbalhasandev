@@ -248,12 +248,14 @@ Built prompt-driven RAG & data workflows
 
 ```text
   📅 Jun 2026 – Present  │  Software Development Engineer II
-  ────────────────────── │  Shomvob · Dhaka, Bangladesh
+  ────────────────────── │  Shomvob · Dhaka, Bangladesh (On-site)
+  • Primary: developing HRIS (Human Resource Information System)
+  • AI-powered features within the HRIS product · intelligent automation
+  • AI-assisted dev workflow (Claude, Copilot) for faster delivery
   • Microservices architecture across NestJS & Node.js services
-  • Real-time features with Socket.io · event-driven communication
-  • Full-stack delivery: Next.js · React · MERN-stack workflows
+  • Full-stack delivery: Next.js frontend · NestJS/Node.js backend
   • Service decomposition · API design · inter-service messaging
-  • Stack: Nest.js · Node.js · Next.js · React · Socket.io · MongoDB · Microservices
+  • Stack: Nest.js · Node.js · Next.js · React · MongoDB · AI Integration · Microservices
 
   📅 Dec 2024 – May 2026 │  Software Engineer
   ────────────────────── │  Nextbit Studio LLC · Remote
